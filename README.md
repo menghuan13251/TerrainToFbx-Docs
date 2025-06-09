@@ -43,7 +43,7 @@ TerrainToFbx is a powerful tool designed to convert Unity's native terrain into 
 ## Feedback
 For issues or suggestions, please contact:
 - Email: m18266322300@gmail.com
-- Bilibili: [https://space.bilibili.com/525496050](https://space.bilibili.com/525496050)
+- [GitHub](https://menghuan13251.github.io/)  
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
